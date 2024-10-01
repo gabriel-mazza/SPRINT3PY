@@ -1,3 +1,9 @@
+Gabriel Barros Mazzariol RM:55541O
+Rodrigo Akira Hirota Mori RM:555384
+
+
+
+
 Este projeto é um simulador que prevê o desempenho de pilotos de Fórmula E com base em dados históricos. O sistema utiliza um arquivo CSV contendo informações sobre os pilotos, como experiência, tipo de pista preferido e condições climáticas favoráveis, para calcular a média de pontos que um piloto pode obter em uma corrida, dadas certas condições.
 
 Funcionalidades
